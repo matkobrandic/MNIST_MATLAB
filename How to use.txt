@@ -1,0 +1,7 @@
+1. Run ucitavanje_sve.m
+2. Run Ak_UkSkVk.m 
+3. Run klasifikacija.m 
+
+
+accuracy_ok.csv is a 10x28 matrix which on i,k position has a number 
+of correctly classified digits i for k. Generally k=2 is most accurate
